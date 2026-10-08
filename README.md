@@ -11,6 +11,9 @@ This repository contains my official submission for the PunkyKongzClub meme boun
 ### 📸 The Artworks
 
 #### 1. File A - Official Bounty Submission (100,000 PKC)
+
+<img width="2414" height="3200" alt="100K_PKC_4K" src="https://github.com/user-attachments/assets/745fb599-b4a1-414a-a929-5b5af6ee5051" />
+
 **File:** `100K_PKC_4K.png` - 2414 x 3200 px - 9.3 MB - PNG
 
 This is the clean version intended for the official bounty submission. It preserves all 5 Kongz characters with high character accuracy and includes only PKC branding without external platform logos.
@@ -19,6 +22,9 @@ This is the clean version intended for the official bounty submission. It preser
 - **Branding:** `PKC` on shirt, `PUNKY KONGZ CLUB` mural, `I WILL MAKE YOU GO BANANAS` tagline, neon `PKC` sign.
 
 #### 2. File B - Promo Version (LIVE ON PUMP.FUN)
+
+<img width="2414" height="3200" alt="LIVE_ON_PUMP FUN_4K" src="https://github.com/user-attachments/assets/1ce9261e-00d8-4034-b8e2-1d6de239ec40" />
+
 **File:** `LIVE_ON_PUMP.FUN_4K.png` - 2414 x 3200 px - 9.45 MB - PNG
 
 This version is optimized for promotion on X / Telegram / Pump.fun. Same artwork but with the `LIVE ON PUMP.FUN` call-to-action and pill logo.
