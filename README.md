@@ -59,11 +59,6 @@ Checked against the official bounty rules:
 └── README.md
 ```
 
-### 🚀 How to Use
-
-1.  **For Bounty Submission:** Upload `100K_PKC_4K.png` or `PKC_FileA_4K_Bounty.png` to the bounty platform.
-2.  **For Social Promo:** Use `LIVE_ON_PUMP.FUN_4K.png` for posts on X with caption.
-
 **Suggested Caption:**
 > PUNKY KONGZ STREET TAKEOVER 🍌
 > Five Kongz. Zero common sense. One alley.
